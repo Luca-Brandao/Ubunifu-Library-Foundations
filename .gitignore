@@ -1,0 +1,16 @@
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.class
+out/
+.ipynb_checkpoints/
+.env
+.env.*
+!.env.example
+contact_submissions.json
+testimonials.json
+Savanna Simulation.txt
+.DS_Store
+Thumbs.db
