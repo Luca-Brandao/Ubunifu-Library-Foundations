@@ -1,3 +1,5 @@
+> This development stage is now part of [Ubunifu-Library-Management](https://github.com/Luca-Brandao/Ubunifu-Library-Management). Use the [SS2 source and setup guide](https://github.com/Luca-Brandao/Ubunifu-Library-Management/tree/main/ss2) there. This repository is retained as a historical snapshot.
+
 # Ubunifu Library: Foundations
 
 An introductory Java console library application using classes, encapsulation, fixed-size arrays, conditionals and console input.
